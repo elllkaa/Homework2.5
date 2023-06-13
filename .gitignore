@@ -38,3 +38,4 @@ build/
 /src/main/resources/application.properties
 /src/main/resources/static/
 /src/main/resources/templates/
+/src/main/java/com/example/homeworkemployeebook/model/Employee.java
